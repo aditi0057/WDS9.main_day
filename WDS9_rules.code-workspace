@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/webdev/Projects/wds9/WDS9_FINAL/wdsmain_rulebook/WDS9_rules"
+		},
+		{
+			"path": "../../Documents/webdev/Projects/wds9/WDS9_FINAL"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WDS9_FINAL"
+	}
+}
